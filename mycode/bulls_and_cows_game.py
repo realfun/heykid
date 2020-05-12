@@ -1,5 +1,8 @@
 # https://en.wikipedia.org/wiki/Bulls_and_Cows
-# pair programed this with kid on 2020/05/02
+# pair programed this with kid on 2020/05/02; main code done by me,
+# focused on clear function/variable naming, top-down functions(divide and conquer),
+# minimal testable code and detailed verifications.
+#
 # this is the game portion, solution is in different file, see bulls_and_cows_solution.py
 
 import random
