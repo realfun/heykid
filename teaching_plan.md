@@ -16,6 +16,7 @@ Concepts and homework.
  * set, unique words
  * text analysis, re
  * files in operation system and code; search in files
+ * pygame, turtle graphics
 
 # Games (the game and solving bot)
 
@@ -26,6 +27,9 @@ Concepts and homework.
  * Huarongdao: https://en.wikipedia.org/wiki/Klotski
  * 15 Puzzle Game: https://en.wikipedia.org/wiki/15_puzzle
  * 2048: https://en.wikipedia.org/wiki/2048_(video_game)
+ * Simple race car game with wavy road and blocks as car and walls on each side
+ * Ping pong
+ * Tetris
 
 # References
 
